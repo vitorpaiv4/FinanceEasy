@@ -58,17 +58,7 @@ Certifique-se de ter o **Node.js** e o **npm** instalados em sua máquina.
    npm run dev
    ```
 
-Estrutura do Projeto:
-my-finance-app/
-├── public/                # Diretório para arquivos públicos
-├── src/                   # Diretório para o código-fonte
-│   ├── components/        # Diretório para componentes reutilizáveis
-│   ├── pages/             # Diretório para as páginas principais do aplicativo
-│   ├── App.tsx            # Arquivo principal da aplicação
-│   └── index.tsx          # Arquivo de entrada do aplicativo
-├── tailwind.config.js     # Arquivo de configuração do Tailwind CSS
-├── package.json           # Arquivo de dependências e scripts do projeto
-└── README.md              # Documentação do projeto
+
 
 
 
