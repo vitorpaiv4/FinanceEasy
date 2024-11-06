@@ -17,7 +17,6 @@ Este é um aplicativo de controle de gastos pessoais, que permite ao usuário ad
   - [TypeScript](https://www.typescriptlang.org/) para tipagem estática no JavaScript.
   - [Tailwind CSS](https://tailwindcss.com/) para estilização rápida e responsiva.
   - [React Router](https://reactrouter.com/) para controle de navegação entre páginas.
-  - [Chart.js](https://www.chartjs.org/) para exibição de gráficos interativos.
   
 - **Backend**:
   - [Firebase](https://firebase.google.com/) (opcional) para autenticação e armazenamento de dados na nuvem.
